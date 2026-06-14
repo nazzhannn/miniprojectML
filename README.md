@@ -33,7 +33,7 @@ pip install numpy scipy scikit-learn matplotlib gradio
    ```
  2. Run the main script:
    ```bash
-   python Mini_project_ml_v3.ipynb
+   python Mini_project_ml_v3.py
    
    ```
  3. A local URL will be generated in your terminal (e.g., http://127.0.0.1:7860). Open this in your browser to access the **Interactive Control Analysis Terminal**.
