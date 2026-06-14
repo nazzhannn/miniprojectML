@@ -28,7 +28,7 @@ pip install numpy scipy scikit-learn matplotlib gradio
 ## 🖥 How to Run
  1. Clone this repository:
    ```bash
-   git clone [YOUR-GITHUB-REPO-LINK]
+   git clone https://github.com/nazzhannn/miniprojectML
    
    ```
  2. Run the main script:
