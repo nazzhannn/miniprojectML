@@ -52,12 +52,4 @@ As a solo project, I was responsible for:
  * **Analysis:** Comparative performance benchmarking under disturbances.
 ## 📝 License
 This project is submitted for academic assessment under the MCTA 4362 Machine Learning course at IIUM.
-*Created by [Your Name] | [Date]*
-```
-
-### Pro-Tips for your GitHub Upload:
-1.  **Upload your `Mini_project_ml_v3.ipynb` file:** GitHub now renders Jupyter Notebooks directly, which looks great for evaluators.
-2.  **Add a `stress_test_analysis.png`:** Upload one of the graphs you generated from your Gradio GUI into the repository and link it in the `README.md` if you want to show off your results immediately!
-3.  **The "Live" Demo:** Mentioning that your code *includes* an interactive GUI is a huge plus—make sure you emphasize this in the README as shown above.
-
-```
+*Created by Nazhan | June 14 2026*
